@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 👾 whoami -> Shubham Pimparkar
-- 🏘 pwd -> from/Maharashtra/ahmednagar/home 
+- 🏘 pwd -> from/maharashtra/ahmednagar/home 
 - 🔭 I’m currently Studing in IACSD Pune.
 - 🌱 I’m currently doing PG DAC course.
 - 🤔 I’m looking for help with Software Developing.
