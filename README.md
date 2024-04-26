@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🏘  My Home town is Ahmednagar City.
+- 👾 whoami -> Shubham Pimparkar
+- 🏘 pwd -> from/Maharashtra/ahmednagar/home 
 - 🔭 I’m currently Studing in IACSD Pune.
 - 🌱 I’m currently doing PG DAC course.
 - 🤔 I’m looking for help with Software Developing.
