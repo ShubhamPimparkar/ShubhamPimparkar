@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🏫 Currently Studing in IACSD Pune.
 - 🧠 Doing PG DAC course.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/shubham-pimparkar11/)
-- 👻 Horror Movies Fan.
 
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 
