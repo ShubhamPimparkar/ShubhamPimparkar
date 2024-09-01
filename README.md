@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 👾 whoami -> Shubham Pimparkar
 - 🏘 pwd -> from/maharashtra/ahmednagar/home 
-- 🏫 Compeleted Pg DAC '24 from IACSD Pune.
+- 🏫 Completed Pg DAC '24 from IACSD Pune.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/shubham-pimparkar11/)
 
 - ⚡ Fun fact: It’s all 0’s and 1’s.
